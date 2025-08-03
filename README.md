@@ -4,9 +4,13 @@ OpsBoard is a lightweight, Firebase-powered ERP dashboard for managing **invoice
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Video Demo
 
-📍 Hosted on Firebase: [your-live-demo-link-here]
+
+
+https://github.com/user-attachments/assets/2092c697-c6eb-4fbe-adc8-23836edf682c
+
+
 
 ---
 
